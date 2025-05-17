@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=awkenin&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -52,4 +44,3 @@
 </p>
 
 ---
-![snake gif](https://github.com/Kazuha787/Kazuha787/blob/output/github-snake-dark.svg)
