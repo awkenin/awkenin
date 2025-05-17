@@ -21,6 +21,10 @@
 
 ---
 
+![snake gif](https://github.com/Kazuha787/Kazuha787/blob/output/github-snake-dark.svg)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,3 +52,4 @@
 </p>
 
 ---
+![snake gif](https://github.com/Kazuha787/Kazuha787/blob/output/github-snake-dark.svg)
