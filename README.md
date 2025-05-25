@@ -5,27 +5,35 @@
 </p>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=awkenin.awkenin" alt="Visitor Badge" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🧰 My Tech Toolbox
+<h3 align="center">🧰 My Tech Toolbox</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F1C40F?style=flat-square&logo=ethereum)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-
----
-
-![snake gif](https://github.com/Kazuha787/Kazuha787/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity" />
+  <img src="https://img.shields.io/badge/-Hardhat-F1C40F?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github.com/Kazuha787/Kazuha787/blob/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awkenin&show_icons=true&theme=tokyonight" />
@@ -37,7 +45,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=awkenin&theme=algolia&margin-w=8" />
